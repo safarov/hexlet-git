@@ -1,5 +1,1 @@
-Hello, Hexlet!
-
-first commit 
-
-second commit 
+Hello, Hexlet! How are you?
